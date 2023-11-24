@@ -8,7 +8,7 @@ describe("Math.js tests", () => {
     expect(substract(2, 2)).toBe(0)
   })
   it("Should test multiply", () => {
-    expect(multiply(2, 2)).toBe(3)
+    expect(multiply(2, 2)).toBe(4)
   })
   it("Should test divide", () => {
     expect(divide(2, 2)).toBe(1)
